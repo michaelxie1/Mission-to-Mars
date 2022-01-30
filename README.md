@@ -1,1 +1,2 @@
 # Mission-to-Mars
+Introductions & basics of web scraping, extraction of data taken of the NASA website. A full-scrape will on the Mars hemisphere images within the website (taken from NASA news website). The basics of HTML and identification for web scraping were learned, as well as the utilization of BeatifulSoup and Splinter to perform the web scrape. A MongoDB (NoSQL) Database will be used to store the data, and it will be displayed on a web application using Flask. Boot Strap components also integrated for design purposes.
